@@ -85,7 +85,12 @@
             android:textSize="25sp"
             android:textStyle="bold" />
 
-
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/register_txt"
+            android:layout_height="wrap_content"
+            android:text="Register Your self first? "
+            android:layout_marginTop="5dp"/>
     </LinearLayout>
 
 </LinearLayout>
